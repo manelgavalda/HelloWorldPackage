@@ -11,7 +11,7 @@ namespace Manel;
 
 class Hello
 {
-    public static function Hola()
+    public function say()
     {
         return 'Hello world!';
     }
