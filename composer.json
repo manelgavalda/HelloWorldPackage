@@ -1,0 +1,16 @@
+{
+    "name": "manel/hello-world-package",
+    "description": "My first package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "manel",
+            "email": "manelgavalda@iesebre.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Manel\\": "src/"}
+    }
+}
